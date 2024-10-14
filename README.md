@@ -1,2 +1,2 @@
-# Waqas
-Student
+# Flappy Bird game
+
